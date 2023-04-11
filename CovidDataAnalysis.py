@@ -1,0 +1,1 @@
+These are errors that occur when a program is executing (i.e. at runtime). They may cause a program to not execute properly or even not run at all. Fatal runtime errors cause program execution to stop while the non-fatal ones cause execution to finish, but with incorrect results.A typical runtime error is a division by zero error.
